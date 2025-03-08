@@ -1,0 +1,16 @@
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: praticien
+  jackson:
+    default-property-inclusion: non_null
+
+logging:
+  level:
+    org:
+      springframework: info
+
+server:
+  port: 8091
