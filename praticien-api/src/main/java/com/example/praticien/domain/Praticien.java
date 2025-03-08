@@ -1,5 +1,6 @@
 package com.example.praticien.domain;
 
+import com.example.praticien.domain.enumeration.AddressType;
 import lombok.Data;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.DBRef;
@@ -20,4 +21,7 @@ public class Praticien implements Serializable {
 
     @DBRef
     private List<Speciality> specialities;
+
+    private List<AddressType> addressTypes;
+
 }
