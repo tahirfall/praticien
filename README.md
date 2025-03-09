@@ -5,7 +5,7 @@ Si vous utiliez Intellij, il y'a des fonctionnnalités qui permettent de charger
 Une base de données MongoDB 'praticien' doit etre créée. Vous pouvez utiliser MongoDB Compas.
 
 ## 2- Test
-Pour tester les différentes fonctionnalités, un swagger a été configuré pour simplifier les tests. Faudra aller sur: 'http://localhost:8091/api/v1/swagger-ui/index.html', toutes ls endpoints sont disponibles. 
+Pour tester les différentes fonctionnalités, un swagger a été configuré pour simplifier les tests. Faudra aller sur: 'http://localhost:8091/api/v1/swagger-ui/index.html', toutes ls endpoints sont disponibles. Cliquez sur le bouton 'Try it out' pour faire les tests.
 L'api tourne sur le port 8091, vérifiez bien que c'est disponible.
 
 # II- PRATICIEN-FRONT
