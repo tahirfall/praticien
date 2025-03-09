@@ -1,7 +1,7 @@
 # I- PRATICIEN-API
 ## 1- Installation
 Pour installer l'api, après avoir cloné le projet, faudra taper la commande 'mvn install' sur le dossier de l'api pour installertoutes les dépendances.
-Si vous sur Intellij, y'a des fonctionnnalités qui permettent de charger automatiquement les dépendances sans passer par la ligne de commande.
+Si vous utiliez Intellij, il y'a des fonctionnnalités qui permettent de charger automatiquement les dépendances sans passer par la ligne de commande.
 Une base de données MongoDB 'praticien' doit etre créée. Vous pouvez utiliser MongoDB Compas.
 
 ## 2- Test
