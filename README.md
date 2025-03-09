@@ -10,4 +10,4 @@ sont disponibles. L'api tourne sur le port 8091, vérifiez bien que c'est dispon
 
 ## PRATICIEN-FRONT
 # 1- Installation
-Tapez la commande 'npm i' sur le dossier du frontend pour installer toutes les dépendances.
+Avec la commande Line, tapez la commande 'npm i' sur le dossier du frontend pour installer toutes les dépendances.
